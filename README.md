@@ -1,37 +1,4 @@
-# Portfolio
+# Gary Tingley - GitHub Portfolio
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [https://garytingley.github.io/](https://garytingley.github.io/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+👋 Hi, I'm a Senior IT Program Manager with a passion for delivering impactful technology solutions and leading high-performing teams. I specialize in bridging the gap between strategy and execution across complex programs.
+🔍 Explore my projects and experience in my [GitHub Portfolio](https://garytingley.github.io/).
