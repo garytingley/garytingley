@@ -1,5 +1,5 @@
 # GitHub Portfolio - Career Showcase & Development Projects
 
-### 👋 Hi, I'm Gary, a Senior IT Program Manager with a passion for building and delivering impactful technology solutions and leading high-performing teams. I specialize in bridging the gap between strategy and execution across complex programs.
+### 👋 Hi, I'm a Senior IT Program Manager with a passion for building and leading high-performing teams to deliver impactful data & AI solutions. I specialize in bridging the gap between strategy and execution across complex programs.
 
 ### 🔍 Explore my projects and experience in my [GitHub Portfolio](https://garytingley.github.io/).
