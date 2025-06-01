@@ -4,4 +4,4 @@
 
 ### 🔗 Explore my career showcase and development projects in my [Portfolio](https://garytingley.github.io/) and on [LinkedIn](https://linkedin.com/in/garytingley/).
 
-### ✉️ [Contact Information]([https://linkedin.com/in/garytingley/](https://www.linkedin.com/in/garytingley/overlay/contact-info/))
+### 📩 [Contact Information]([https://linkedin.com/in/garytingley/](https://www.linkedin.com/in/garytingley/overlay/contact-info/))
