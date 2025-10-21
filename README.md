@@ -4,4 +4,4 @@
 
 ### This portfolio highlights select career achievements and hands-on development projects focused on AI, data, and cloud technologies, reflecting my commitment to technical excellence and continuous learning.
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-blue)](https://garytingley.github.io/)
+[![Visit My Portfolio: https://garytingley.github.io/](https://img.shields.io/badge/Visit%20My%20Portfolio-blue)](https://garytingley.github.io/)
