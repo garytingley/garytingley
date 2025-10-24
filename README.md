@@ -4,4 +4,4 @@
 
 ### This portfolio highlights select career achievements and hands-on development projects focused on data, analytics, AI, and cloud technologies, reflecting my commitment to technical excellence and continuous learning.
 
-### View my portfolio at [https://garytingley.github.io/](https://garytingley.github.io/)
+### View my portfolio at: [https://garytingley.github.io/](https://garytingley.github.io/)
