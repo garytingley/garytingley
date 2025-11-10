@@ -1,7 +1,7 @@
 # GitHub Portfolio - Career Showcase & Development Projects
 
-### I'm a Senior Technical Program Manager with a strong record of delivering mission-critical, customer-centric data, analytics, and AI solutions at scale. I specialize in aligning strategic priorities with technical execution, turning high-level objectives into actionable roadmaps that drive measurable outcomes, accelerate decision-making, and enhance operational readiness.
+### I’m a Senior Technical Program Manager who delivers large-scale data and analytics solutions that support critical missions and real users. I focus on connecting strategy with execution, turning complex goals into clear, actionable plans that improve performance, speed up decisions, and strengthen readiness.
 
-### This portfolio highlights select career achievements and hands-on development projects focused on data, analytics, AI, and cloud technologies, reflecting my commitment to technical excellence and continuous learning.
+### This portfolio includes select work from my career and personal development projects in data, analytics, and AI. Each one reflects my focus on practical impact, technical growth, and continuous learning.
 
-### View my portfolio at: [https://garytingley.github.io/](https://garytingley.github.io/)
+### Visit my portfolio: [https://garytingley.github.io/](https://garytingley.github.io/)
