@@ -4,4 +4,4 @@
 
 ### This portfolio includes select work from my career and personal development projects in data, analytics, and AI. Each one reflects my focus on practical impact, technical growth, and continuous learning.
 
-### Visit my portfolio: [https://garytingley.github.io/](https://garytingley.github.io/)
+### Visit my portfolio at: [https://garytingley.github.io/](https://garytingley.github.io/)
