@@ -4,4 +4,4 @@
 
 ### This portfolio includes selected career and personal development projects across data, analytics, and AI, reflecting a focus on practical impact, technical growth, and continuous learning.
 
-### View my [Portfolio](https://garytingley.github.io/), download my [Resume (Indeed)](https://profile.indeed.com/p/garyt-ttxn6y5), and connect with me on [LinkedIn](https://linkedin.com/in/garytingley).
+### View my [Portfolio](https://garytingley.github.io/) and connect with me on [LinkedIn](https://linkedin.com/in/garytingley).
