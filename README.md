@@ -5,10 +5,7 @@
 
 
  ### This portfolio includes selected career and personal development projects across data, analytics, and AI, reflecting a focus on practical impact, technical growth, and continuous learning.
--->
-### Connect with me on [LinkedIn](https://linkedin.com/in/garytingley).
 
-<!---
 ### View my [Portfolio](https://garytingley.dev) and connect with me on [LinkedIn](https://linkedin.com/in/garytingley).
 -->
 
