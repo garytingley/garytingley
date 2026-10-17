@@ -5,7 +5,7 @@
 
 ## This portfolio showcases my development projects and technical capabilities across AI agents, knowledge discovery, data engineering, and cloud-native applications.
 
-## View my [Portfolio](https://garytingley.dev) and connect with me on [LinkedIn](https://linkedin.com/in/garytingley).
+## View my portfolio at [garytingley.dev](https://garytingley.dev) and connect with me on [LinkedIn](https://linkedin.com/in/garytingley).
 
 -->
 
